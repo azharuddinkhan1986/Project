@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D432-E7DF
+
+ Directory of C:\Users\AZHAR\Desktop\Project
+
+04/15/2019  10:43 PM    <DIR>          .
+04/15/2019  10:43 PM    <DIR>          ..
+04/15/2019  10:23 PM                 9 fILE1.txt
+04/15/2019  10:43 PM                 0 test2.txt
+               2 File(s)              9 bytes
+               2 Dir(s)  112,739,049,472 bytes free
